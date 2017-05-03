@@ -1,10 +1,11 @@
+package pany_ssh.java.main
+
 public class Quick {
 
     private static int mark = 0;
 
     /**
-     * 辅助交换方法
-     *
+     * py
      * @param array
      * @param a
      * @param b
@@ -85,5 +86,8 @@ public class Quick {
             System.out.print(i + " ");
         }
     }
+
+
+//    stgsdhdfhgdjgcfjdfc
 
 }
